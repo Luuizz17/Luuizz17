@@ -5,8 +5,6 @@
 
 Estudante de desenvolvimento backend focado em **Java** e na construção de bases sólidas em programação.
 
-Atualmente estudando **Spring Boot**, APIs e arquitetura de software.
-
 Interessado em desenvolvimento backend, sistemas web e **Cybersegurança**.
 
 
